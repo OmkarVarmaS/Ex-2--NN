@@ -1,6 +1,6 @@
 <H3>Name: Omkar Varma S</H3>
 <H3>Register no: 212224240108</H3>
-<H3>Date: 28-10-2026</H3>
+<H3>Date: 18-11-2026</H3>
 <H3>Experiment No. 2 </H3>
 # Implementation of Perceptron for Binary Classification
 # AIM:
